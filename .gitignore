@@ -1,0 +1,31 @@
+# Ignore build results
+bin/
+obj/
+Debug/
+Release/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# Temporary files
+*.tmp
+*.cache
+*.pdb
+*.ilk
+*.idb
+
+# Database files
+*.mdf
+*.ldf
